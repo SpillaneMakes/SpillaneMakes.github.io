@@ -1,0 +1,19 @@
+# Authors
+
+Dan Spillane:
+  name        : "Dan Spillane"
+  bio         : "Maker and Design Engineer"
+  avatar      : "/assets/images/300x300_SpillanePic.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:Dan@SpillaneMakes.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://DanSpillane.co"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/SpillaneMakes"
+    - label: "Github"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/drspillane"
