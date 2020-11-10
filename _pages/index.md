@@ -20,7 +20,7 @@ intro:
    manufacturing and data-driven design. Please feel free to explore my website
    and reach out through the contact section if you have any questions.'
 feature_row:
-  - image_path: assets/images/PrinterDesigns1.jpg
+  - image_path: /assets/images/PrinterDesigns1.jpg
     alt: "placeholder image 1"
     title: "Open Source Material Extrusion Printer Designs"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -51,16 +51,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/Voxel_Octet.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
-
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
@@ -68,5 +59,3 @@ feature_row4:
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
-
-{% include feature_row id="feature_row4" type="center" %}

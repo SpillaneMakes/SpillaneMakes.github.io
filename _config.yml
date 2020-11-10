@@ -116,7 +116,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "Dan@SpillaneMakes.com"
+      url: "/contact_me/"
     - label: "Resume"
       icon: "fas fa-fw fa-link"
       url: "https://DanSpillane.co"
