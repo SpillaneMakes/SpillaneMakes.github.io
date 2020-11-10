@@ -1,8 +1,8 @@
 ---
-title: Multi-Material and Voxel-Based Research port
+title: Multi-material and Voxel-Based Research
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /research/
+collection: _portfolio
 entries_layout: grid
 classes: wide
 ---

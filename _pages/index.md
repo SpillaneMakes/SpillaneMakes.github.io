@@ -11,7 +11,7 @@ header:
     - label:
       url: -->
   caption:
-excerpt: Maker/Engineering Design Project Portfolio
+excerpt: Additive Engineering Design Graduate Researcher
 intro:
   - excerpt: 'Welcome to my Maker Portfolio and Project blog. I use this website
    to feature the Engineering Design work I have completed in my academic career
