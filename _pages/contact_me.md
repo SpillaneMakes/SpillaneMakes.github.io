@@ -1,7 +1,7 @@
 ---
-title: "Contact Me"
-permalink: /contact_me/
-date: 2020-09-01T12:00:20+00:00
+title: Contact Me
+date: 2020-09-01 08:00:20 -04:00
+permalink: "/contact_me/"
 ---
 
 If you have any questions about the projects listed on my website, or are looking for a design engineer to assist with a project, please reach out through my main email below.

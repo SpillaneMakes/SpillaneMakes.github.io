@@ -1,7 +1,7 @@
 ---
 title: Multi-material and Voxel-Based Research
+permalink: "/research/"
 layout: collection
-permalink: /research/
 collection: _portfolio
 entries_layout: grid
 classes: wide
